@@ -1,6 +1,7 @@
 # Price Prediction Models for Birkshire Hathaway Real Estate Group
 
 ## How To Navigate Through the Repo
+The final_submission.ipynb contains the final linear and regression models as well as explanation and justification for our creation. In the code folder, you will find data_cleaning.ipynb where we prepared our data and two other .ipynb files that have practice code. The practice code is mostly unorganized and meant for our own purposes and not someone who is reading this repo. But feel free to check it out!
 
 ## Overview
 [1]: https://www.ciclt.net/sn/clt/capitolimpact/gw_ziplist.aspx?FIPS=53033 "ZIP Codes"
